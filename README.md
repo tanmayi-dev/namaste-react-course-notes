@@ -1,1 +1,1 @@
-# namaste-react-course-notes
+# react-notes
